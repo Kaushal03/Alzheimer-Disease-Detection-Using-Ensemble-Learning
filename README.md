@@ -33,6 +33,15 @@ achieved the best AUC scores using the proposed ensemble approach.
 ### DATASET 
 [![ADNI](https://img.shields.io/badge/ADNI-Official-brightgreen)](https://adni.loni.usc.edu/data-samples/access-data/)
 
+### SYSTEM ARCHITECTURE
+![Sys Arch Updated](https://github.com/Kaushal03/Alzheimer-Disease-Detection-Using-Ensemble-Learning/assets/67416597/8b3e514e-37ae-4030-8b75-5b9c1a4e284a)
+
+### MODEL BUILDING
+####  DENSENET201 MODEL
+DenseNet-201 is a deep convolutional neural network that is a part of the DenseNet family of models. DenseNet-201 has 201 layers and is similar to the DenseNet-161 and DenseNet-121 models, but it is deeper and has more parameters.DenseNet-201 uses a dense connectivity pattern, where each layer is connected to every other layer in a feedforward manner. This connectivity pattern allows 
+for more efficient parameter reuse and reduces the vanishing gradient problem that can occur in very deep networks.
+![image](https://github.com/Kaushal03/Alzheimer-Disease-Detection-Using-Ensemble-Learning/assets/67416597/2f53eebf-e927-49bb-be83-425270afc24e)
+
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
