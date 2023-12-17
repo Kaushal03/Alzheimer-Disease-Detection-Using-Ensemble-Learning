@@ -76,3 +76,9 @@ VGG19 is a deep convolutional neural network architecture that was developed by 
       <td style="border: 1px solid #dddddd; padding: 8px;">0.912702</td>
     </tr>
   </table>
+
+### CONCLUSION
+In conclusion, the proposed Alzheimer Disease Detection System provides a novel and accurate approach to identifying individuals with Alzheimer's Disease, mild cognitive impairment, and cognitive normality using deep learning models and ensemble learning. The system's high accuracy scores demonstrate its potential to assist medical professionals in the early detection and treatment of Alzheimer's Disease. Moreover, the registration-free preprocessing pipeline enables quick and easy data preparation, while the use of various 3D categorization architectures provides flexibility in the system's implementation. Future enhancements, such as incorporating multimodal data and explainable AI techniques, could further improve the system's accuracy and interpretability. Overall, the proposed system has significant potential to enhance patient outcomes and improve the quality of life for those affected by Alzheimer's Disease.
+  
+### FUTURE ENHANCEMENT
+One potential future enhancement for the Alzheimer Disease Detection System could be the incorporation of multimodal data, such as combining MRI scans with other types of medical data, including genetic and demographic information, to improve the accuracy of the system's predictions. Another enhancement could involve using explainable AI techniques to better understand the system's decision-making process and provide interpretable insights to medical professionals. Additionally, incorporating longitudinal data into the system could enable it to track disease progression over time and provide personalized treatment recommendations for patients.
