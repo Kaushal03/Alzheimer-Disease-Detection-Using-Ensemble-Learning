@@ -37,6 +37,10 @@ VGG19 is a deep convolutional neural network architecture that was developed by 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
+#### FRONTEND 
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+
 <h3 style="text-align: center;">Model Metrics</h3>
 
   <table style="border-collapse: collapse; width: 100%; text-align: center;">
