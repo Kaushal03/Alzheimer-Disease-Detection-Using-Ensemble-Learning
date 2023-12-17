@@ -33,7 +33,46 @@ EfficientNet B7 is a state-of-the-art convolutional neural network architecture 
 VGG19 is a deep convolutional neural network architecture that was developed by the Visual Geometry Group (VGG) at the University of Oxford. It is a part of the VGG family of models, which are known for their simplicity and effectiveness on image classification tasks.VGG19 has 19 layers, including 16 convolutional layers and 3 fully connected layers. It uses 3x3 convolutional filters throughout the network, which allows it to learn local features in the input image. The architecture also includes max pooling layers to reduce the spatial dimensions of the feature maps.One of the key features of VGG19 is its simplicity. The use of small convolutional filters and max pooling layers throughout the network allows the model to learn complex features from the input image without the need for complicated architectures or techniques. Additionally, the model is trained using a standard cross-entropy loss function and stochastic gradient descent (SGD) optimization.
 ![image](https://github.com/Kaushal03/Alzheimer-Disease-Detection-Using-Ensemble-Learning/assets/67416597/26c3685b-9a46-4032-8f02-b2d3bd7e53c2)
 
-
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+<h2 style="text-align: center;">Model Metrics</h2>
+
+  <table style="border-collapse: collapse; width: 100%; text-align: center;">
+    <tr style="background-color: #f2f2f2;">
+      <th style="border: 1px solid #dddddd; padding: 8px;">Model</th>
+      <th style="border: 1px solid #dddddd; padding: 8px;">Precision</th>
+      <th style="border: 1px solid #dddddd; padding: 8px;">F1 Score</th>
+      <th style="border: 1px solid #dddddd; padding: 8px;">Recall</th>
+      <th style="border: 1px solid #dddddd; padding: 8px;">Accuracy</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Densenet</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.292761</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.975359</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.939961</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.936623</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #dddddd; padding: 8px;">CNN</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.574751</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.969785</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.925672</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.923043</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #dddddd; padding: 8px;">Efficient Net B7</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.224937</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.973537</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.935543</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.931889</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #dddddd; padding: 8px;">VGG 19</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">2.722047</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.965684</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.915465</td>
+      <td style="border: 1px solid #dddddd; padding: 8px;">0.912702</td>
+    </tr>
+  </table>
