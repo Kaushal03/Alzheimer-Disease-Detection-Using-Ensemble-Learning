@@ -33,6 +33,10 @@ EfficientNet B7 is a state-of-the-art convolutional neural network architecture 
 VGG19 is a deep convolutional neural network architecture that was developed by the Visual Geometry Group (VGG) at the University of Oxford. It is a part of the VGG family of models, which are known for their simplicity and effectiveness on image classification tasks.VGG19 has 19 layers, including 16 convolutional layers and 3 fully connected layers. It uses 3x3 convolutional filters throughout the network, which allows it to learn local features in the input image. The architecture also includes max pooling layers to reduce the spatial dimensions of the feature maps.One of the key features of VGG19 is its simplicity. The use of small convolutional filters and max pooling layers throughout the network allows the model to learn complex features from the input image without the need for complicated architectures or techniques. Additionally, the model is trained using a standard cross-entropy loss function and stochastic gradient descent (SGD) optimization.
 ![image](https://github.com/Kaushal03/Alzheimer-Disease-Detection-Using-Ensemble-Learning/assets/67416597/26c3685b-9a46-4032-8f02-b2d3bd7e53c2)
 
+#### ENSEMBLE LEARNING
+Ensemble learning with Densenet201, VGG19, CNN, and EfficientNet B7 involves combining the predictive strengths of these diverse models to enhance overall performance. By leveraging their unique architectures and learning patterns, the ensemble captures a more robust representation of the data. This approach aims to mitigate individual model biases and uncertainties, resulting in a more accurate and reliable prediction ensemble. Through methods like voting, stacking, or averaging, the combination of these state-of-the-art models contributes to a more robust and effective solution in various machine learning tasks.
+
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
