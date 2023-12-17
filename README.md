@@ -22,6 +22,17 @@ DenseNet-201 is a deep convolutional neural network that is a part of the DenseN
 for more efficient parameter reuse and reduces the vanishing gradient problem that can occur in very deep networks.
 ![image](https://github.com/Kaushal03/Alzheimer-Disease-Detection-Using-Ensemble-Learning/assets/67416597/2f53eebf-e927-49bb-be83-425270afc24e)
 
+####  CNN MODEL
+A Convolutional Neural Network (CNN) is a specialized deep learning architecture designed for processing and analyzing visual data, particularly images. CNNs employ convolutional layers to automatically extract hierarchical features from input images, enabling the network to understand spatial relationships and patterns. With the inclusion of pooling layers for dimensionality reduction and activation functions like ReLU for introducing non-linearity, CNNs can capture intricate details in images. Their effectiveness in image classification, object detection, and feature extraction has made CNNs a cornerstone in computer vision applications. Additionally, transfer learning, where pretrained CNNs are adapted for specific tasks, has further contributed to their widespread success in various domains.
+![image](https://github.com/Kaushal03/Alzheimer-Disease-Detection-Using-Ensemble-Learning/assets/67416597/7d5c2b64-5622-4532-afdc-7242bb1f9411)
+
+####  EFFICIENT NET B7 MODEL
+EfficientNet B7 is a state-of-the-art convolutional neural network architecture known for its exceptional efficiency and high performance in image classification tasks. Part of the EfficientNet family, it represents the largest and most powerful variant in terms of model size and computational complexity. Developed to balance model accuracy with computational efficiency, EfficientNet B7 achieves remarkable results on image datasets while maintaining a relatively compact structure. Leveraging compound scaling, which uniformly scales network width, depth, and resolution, EfficientNet B7 strikes an optimal balance, making it a preferred choice for tasks demanding both accuracy and resource efficiency in the field of computer vision.
+
+####  VGG19 MODEL
+VGG19 is a deep convolutional neural network architecture that was developed by the Visual Geometry Group (VGG) at the University of Oxford. It is a part of the VGG family of models, which are known for their simplicity and effectiveness on image classification tasks.VGG19 has 19 layers, including 16 convolutional layers and 3 fully connected layers. It uses 3x3 convolutional filters throughout the network, which allows it to learn local features in the input image. The architecture also includes max pooling layers to reduce the spatial dimensions of the feature maps.One of the key features of VGG19 is its simplicity. The use of small convolutional filters and max pooling layers throughout the network allows the model to learn complex features from the input image without the need for complicated architectures or techniques. Additionally, the model is trained using a standard cross-entropy loss function and stochastic gradient descent (SGD) optimization.
+![image](https://github.com/Kaushal03/Alzheimer-Disease-Detection-Using-Ensemble-Learning/assets/67416597/26c3685b-9a46-4032-8f02-b2d3bd7e53c2)
+
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
