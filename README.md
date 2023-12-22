@@ -1,4 +1,4 @@
-# Alzheimer-Disease-Detection-Using-Ensemble-Learning
+# Alzheimer Disease Detection Using Ensemble Learning
 
 ### ABSTRACT
 The proposed project introduces a novel system, called Alzheimer Disease Detection System, that utilizes deep learning models to accurately detect Alzheimer's Disease. The system includes a registration-free preprocessing pipeline and employs various 3D categorization architectures, including CNN, Densenet, VGG19, and Efficient Net B7. The best-performing models are subjected to an ensemble learning strategy, which leads to high accuracy scores of 95.28% and 93.8% for differentiating between individuals with Alzheimer's Disease and mild cognitive impairment, as well as between MCI and cognitive normality, respectively. This outperforms existing research in the field and could significantly assist patients with Alzheimer's Disease.
